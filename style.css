@@ -1,0 +1,16 @@
+h1 {
+  color: brown;
+}
+p {
+  color: darkgray ;
+}
+#description {
+  background: coral;
+  color: bisque;
+}
+div p {
+  color: black;
+}
+.underline {
+  text-decoration: underline;
+}
